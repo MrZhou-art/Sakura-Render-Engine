@@ -18,6 +18,7 @@
 mono_crash.*
 
 # Build results
+sakura_render_engine/build/
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
